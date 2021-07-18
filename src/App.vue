@@ -14,9 +14,7 @@
       ref="sideBar"
     >
       <el-menu @select="handleSelect">
-        <el-menu-item index="/">主页</el-menu-item>
-        <el-menu-item index="Ftbot">Ftbot帮助</el-menu-item>
-        <el-menu-item index="DBbot">DBbot帮助</el-menu-item>
+        <el-menu-item index="/">第一周：props传参</el-menu-item>
       </el-menu>
     </el-aside>
 
